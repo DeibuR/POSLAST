@@ -1,0 +1,13 @@
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\bin\Debug\POSLAST.exe.config
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\bin\Debug\POSLAST.exe
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\bin\Debug\POSLAST.pdb
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.csproj.AssemblyReference.cache
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.Form1.resources
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.Form3.resources
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.Properties.Resources.resources
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.csproj.GenerateResource.cache
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.csproj.CoreCompileInputs.cache
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.exe
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.pdb
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.exe.config
+C:\Users\Deibu\source\repos\POSLAST\POSLAST\obj\Debug\POSLAST.Form2.resources
